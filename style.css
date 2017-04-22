@@ -1,0 +1,19 @@
+.container {
+            width: 70%;
+            padding: 20px;
+            margin: 100px auto;
+            background: #199A44;
+        }
+
+.button {
+            display: inline-block;
+            padding: 10px 20px;
+            border: 10px, #494604;
+            background: #CDC722;
+
+            cursor: pointer;
+
+            font: 16px Helvetica, sans-serif;
+            text-decoration: none;
+            color: #114B1B;
+        }
